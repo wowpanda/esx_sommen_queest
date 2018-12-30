@@ -1,5 +1,10 @@
 # esx_sommen_queest
 
+# info
+
+I questet ska man prata med en som heter Amur och han kommer ge dig ett uppdrag du ska slutföra så får man en belöning av han.
+Questet har 4 timmars cooldown.
+
 # Requirements
 
 * malteser_cinema - https://github.com/malteserboi/malteser_cinema
